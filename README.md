@@ -21,8 +21,8 @@ A streamlined PDF question-answering application that allows users to upload PDF
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/vinod-polinati/doc-qa-groq.git
+cd doc-qa-groq
 ```
 
 2. Install the required dependencies:
